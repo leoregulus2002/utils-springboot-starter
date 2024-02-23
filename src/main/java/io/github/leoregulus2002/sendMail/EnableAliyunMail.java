@@ -1,6 +1,6 @@
-package cn.yz.sendMail;
+package io.github.leoregulus2002.sendMail;
 
-import cn.yz.sendMail.auto.MailAliyunStarterAutoConfiguration;
+import io.github.leoregulus2002.sendMail.auto.MailAliyunStarterAutoConfiguration;
 import org.springframework.context.annotation.Import;
 
 import java.lang.annotation.*;

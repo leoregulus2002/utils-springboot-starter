@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.Auto.=\
-  cn.yz.sendMail.auto.MailAliyunStarterAutoConfiguration
+  io.github.leoregulus2002.sendMail.auto.MailAliyunStarterAutoConfiguration

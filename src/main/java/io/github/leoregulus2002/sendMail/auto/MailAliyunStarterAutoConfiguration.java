@@ -1,8 +1,8 @@
-package cn.yz.sendMail.auto;
+package io.github.leoregulus2002.sendMail.auto;
 
-import cn.yz.sendMail.AliyunMail;
-import cn.yz.sendMail.bean.MailAliyunInfo;
-import cn.yz.sendMail.bean.MailAliyunProperties;
+import io.github.leoregulus2002.sendMail.AliyunMail;
+import io.github.leoregulus2002.sendMail.bean.MailAliyunInfo;
+import io.github.leoregulus2002.sendMail.bean.MailAliyunProperties;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnWebApplication;

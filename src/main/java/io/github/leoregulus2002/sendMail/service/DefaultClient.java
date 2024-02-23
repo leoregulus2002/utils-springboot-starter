@@ -1,6 +1,6 @@
-package cn.yz.sendMail.service;
+package io.github.leoregulus2002.sendMail.service;
 
-import cn.yz.sendMail.bean.MailAliyunProperties;
+import io.github.leoregulus2002.sendMail.bean.MailAliyunProperties;
 import com.aliyuncs.DefaultAcsClient;
 import com.aliyuncs.profile.DefaultProfile;
 

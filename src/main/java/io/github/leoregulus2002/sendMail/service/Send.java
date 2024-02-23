@@ -1,6 +1,6 @@
-package cn.yz.sendMail.service;
+package io.github.leoregulus2002.sendMail.service;
 
-import cn.yz.sendMail.bean.MailAliyunInfo;
+import io.github.leoregulus2002.sendMail.bean.MailAliyunInfo;
 import com.aliyuncs.DefaultAcsClient;
 import com.aliyuncs.dysmsapi.model.v20170525.SendSmsRequest;
 import com.aliyuncs.dysmsapi.model.v20170525.SendSmsResponse;

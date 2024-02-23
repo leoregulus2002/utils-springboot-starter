@@ -21,3 +21,11 @@ This is a springboot starter for common utils.
         aliyunMail.send(defaultClient,mailAliyunInfo);
     }
 ``` 
+### 2.3 yml
+```yaml
+mailaliyun:
+  config:
+    access-key-id: 
+    region-id: 
+    access-key-secret: 
+```

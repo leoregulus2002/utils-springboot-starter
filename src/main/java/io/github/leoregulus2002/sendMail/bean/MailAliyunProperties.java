@@ -1,4 +1,4 @@
-package cn.yz.sendMail.bean;
+package io.github.leoregulus2002.sendMail.bean;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
